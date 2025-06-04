@@ -1,6 +1,9 @@
 const express = require('express');
 const jwt = require('jsonwebtoken');
 
+const router = express.Router(); // ✅ THIS LINE WAS MISSING
+
+// require('dotenv').config();
 router.post('/login', (req, res) => {
   const { username } = req.body;
 
