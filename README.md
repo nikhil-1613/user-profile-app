@@ -26,17 +26,7 @@ Secured with JWT authentication.
 
 
 **🧱 Project Structure**
-user-profile-app/
-├── client/               # Frontend (React + Tailwind)
-│   └── src/
-│       └── ProfilePage.jsx
-├── server/               # Backend (Express)
-│   ├── routes/
-│   │   └── userRoutes.js
-│   ├── middleware/
-│   │   └── auth.js
-│   └── app.js
-├── README.md
+![image](https://github.com/user-attachments/assets/57933fd6-e425-43b2-a03b-1141413678e2)
 
 
 ** 📁 Clone Project**
@@ -78,18 +68,8 @@ Delphine (check GitHub match)
 
 
 **Sample Response**
-{
-  "username": "Samantha",
-  "name": "Clementine Bauch",
-  "email": "Nathan@yesenia.net",
-  "role": "developer",
-  "city": "McKenziehaven",
-  "companyName": "Romaguera-Jacobson",
-  "github": {
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31223891?v=4",
-    "profile": "https://github.com/samantha",
-    "bio": null,
-    "publicRepos": 16
-  }
-}
+![image](https://github.com/user-attachments/assets/cb2ef398-1d78-46f8-b405-608a4dbbb8f6)
+![image](https://github.com/user-attachments/assets/899fc96f-9f29-44bd-a06c-de5f41f3a2a9)
+
+
 
