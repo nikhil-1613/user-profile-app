@@ -31,7 +31,7 @@ Secured with JWT authentication.
 
 ** 📁 Clone Project**
 
-git clone https://github.com/your-username/user-profile-aggregator.git
+git clone https://github.com/your-username/user-profile-app.git
 cd user-profile-aggregator
 
 cd server
